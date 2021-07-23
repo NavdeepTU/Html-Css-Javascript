@@ -1,0 +1,1 @@
+This repository contains projects that I have built using html, css and javascript during my training at Publicis Sapient.
