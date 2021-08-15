@@ -7,3 +7,4 @@ The projects are hosted at below links:
 4. 04 Hidden Search Widget - https://navdeeptu.github.io/Html-Css-Javascript/04%20Hidden%20Search%20Widget/
 5. 05 Blurry Loading - https://navdeeptu.github.io/Html-Css-Javascript/05-Blurry-Loading/
 6. 06 Scrolling Animation - https://navdeeptu.github.io/Html-Css-Javascript/06-Scroll-Animation/
+7. 07 Split Landing Page - https://navdeeptu.github.io/Html-Css-Javascript/07-Split-Landing-Page/
