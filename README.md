@@ -8,3 +8,4 @@ The projects are hosted at below links:
 5. 05 Blurry Loading - https://navdeeptu.github.io/Html-Css-Javascript/05-Blurry-Loading/
 6. 06 Scrolling Animation - https://navdeeptu.github.io/Html-Css-Javascript/06-Scroll-Animation/
 7. 07 Split Landing Page - https://navdeeptu.github.io/Html-Css-Javascript/07-Split-Landing-Page/
+8. 08 Form Wave Animation - https://navdeeptu.github.io/Html-Css-Javascript/08-Form-Wave-Animation/
