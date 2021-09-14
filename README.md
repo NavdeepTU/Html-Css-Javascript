@@ -13,3 +13,4 @@ The projects are hosted at below links:
 10. Dad Jokes - https://navdeeptu.github.io/Html-Css-Javascript/10-Dad-Jokes/
 11. Event KeyCodes - https://navdeeptu.github.io/Html-Css-Javascript/11-Event-KeyCodes/
 12. FAQ Collapse - https://navdeeptu.github.io/Html-Css-Javascript/12-FAQ-Collapse/
+13. Random Choice Picker - https://navdeeptu.github.io/Html-Css-Javascript/13-Random-Choice-Picker/
