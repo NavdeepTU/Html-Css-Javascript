@@ -14,3 +14,4 @@ The projects are hosted at below links:
 11. Event KeyCodes - https://navdeeptu.github.io/Html-Css-Javascript/11-Event-KeyCodes/
 12. FAQ Collapse - https://navdeeptu.github.io/Html-Css-Javascript/12-FAQ-Collapse/
 13. Random Choice Picker - https://navdeeptu.github.io/Html-Css-Javascript/13-Random-Choice-Picker/
+14. Animated Navigation - https://navdeeptu.github.io/Html-Css-Javascript/14-Animated-Navigation/
