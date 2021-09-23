@@ -15,3 +15,4 @@ The projects are hosted at below links:
 12. FAQ Collapse - https://navdeeptu.github.io/Html-Css-Javascript/12-FAQ-Collapse/
 13. Random Choice Picker - https://navdeeptu.github.io/Html-Css-Javascript/13-Random-Choice-Picker/
 14. Animated Navigation - https://navdeeptu.github.io/Html-Css-Javascript/14-Animated-Navigation/
+15. Incrementing Counter - https://navdeeptu.github.io/Html-Css-Javascript/15-Incrementing-Counter/
