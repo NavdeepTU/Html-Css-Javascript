@@ -10,7 +10,7 @@ counters.forEach(counter => {
         // increment variable does 2 things:
         // 1. Controls the speed of increment
         // 2. Makes sure the increment ends at the same time regardless of th target value
-        const increment = target / 2000;
+        const increment = target / 200;
 
         if (c < target) {
             counter.innerText = `${Math.ceil(c+increment)}`;
