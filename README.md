@@ -16,4 +16,5 @@ The projects are hosted at below links:
 13. Random Choice Picker - https://navdeeptu.github.io/Html-Css-Javascript/13-Random-Choice-Picker/
 14. Animated Navigation - https://navdeeptu.github.io/Html-Css-Javascript/14-Animated-Navigation/
 15. Incrementing Counter - https://navdeeptu.github.io/Html-Css-Javascript/15-Incrementing-Counter/
-16. Kinetic CSS Loader - https://navdeeptu.github.io/Html-Css-Javascript/23-Kinetic-CSS-Loader/
+16. Button Ripple Effect - https://navdeeptu.github.io/Html-Css-Javascript/20-Button-Ripple-Effect/
+17. Kinetic CSS Loader - https://navdeeptu.github.io/Html-Css-Javascript/23-Kinetic-CSS-Loader/
